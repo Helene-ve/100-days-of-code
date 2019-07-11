@@ -1,17 +1,20 @@
-# Rules of the 100 Days Of Code Challenge
+# Rules of my version of 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I will code for at least an hour every workday for the next 100 days.*
+HeleneVe: My adapted version, with my adapted rules, to make it work for me
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+July 19th, 2019.
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
-2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
+1. <del>I will tweet about my progress every day -> using the hashtag #100DaysOfCode</del>
+2. <del>If I code at work, that time won't count towards the challenge.</del>
+3. I will push code to GitHub <del>every day</del> so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+5. <del>I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))</del>
+
+HeleneVe: Main motivator is current job rather than landing a Developer Job, so I will have my deadlines and real projects already grossly defined. This challenge is mainly a fun way for me to keep track of the steps I make.
 
 
 ## Ideas to make this challenge more effective
