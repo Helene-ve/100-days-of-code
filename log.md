@@ -39,7 +39,7 @@
 ### Day 3:
 **Today's Focus**: Find coding challenges at my appropriate level
 
-**Details**: I've started Checkio which asks for small programs yet provides a bit of help to get started. Programmed "All the same". Decided on Spyder as preferred IDE, this seems most natural for me as Matlab user, allthough Jupyter notebooks are on the programme for the future. Advanced on Finxter from Basic Knowledge to Beginner.
+**Details**: I've started Checkio which asks for small programs yet provides a bit of help to get started. Programmed "All the same" and "House Password" which are simple input checker modules. Decided on Spyder as preferred IDE, this seems most natural for me as Matlab user, allthough Jupyter notebooks are on the programme for the future. Advanced on Finxter from Basic Knowledge to Beginner.
 
 ----------
  <a name="day-X"></a>
