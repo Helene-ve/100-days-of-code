@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **07/19/19**|Python basic commands, Docker|
+|[Day 1](#day-1) **07/19/19**|Python basic commands, Docker|[Day 2](#day-2) **07/19/16**|Python basic commands|
 
 ----------
 <a name="day-1"></a>
@@ -22,13 +22,23 @@
  - I realized I need more experience with GitHub, and also figure out from which work station I'll be uploading code, this is something I'll work on in the near future, to be able to actually upload my projects.
  - I will have to avoid to work on too many things simultaneously in this new stage of work with little support and many new things to learn. It's a challenge to close paths down for now, yet I expect the log file to show it will benefit my output.
 
-**Examples**: 
+[Table of Contents](#toc)
 
->temporary placeholder for example code<
+----------
+ <a name="day-2"></a>
+### Day 2:
+**Today's Focus**: Tested approaches to learn and train Python. 
 
-**Link to work**: [Github](https://github.com/heleneveenstra/)
+**Details**: I made an attempt to steer clear from plain tutorials in favour of interactive learning preferably geared towards Data Scientists. I gave CodeCombat a shot, finished the first dungeon, but found it too slow, simple and tedious to actually advance in coding. Finxter is a nice test to gauge the current level of your coding skills, I use it at the moment to test the commands I know, so advancing only slowly there. Sololearn gives a good phone app, even useable offline which is very useful during vacation times. I try to finish one module a day. Lastly I am using DataCamp as a resource. No code to show for this orientation day, which feels unrewarding and I will therefore change strategies.
 
 [Table of Contents](#toc)
+
+----------
+ <a name="day-3"></a>
+### Day 3:
+**Today's Focus**: Find coding challenges at my appropriate level
+
+**Details**: I've started Checkio which asks for small programs yet provides a bit of help to get started. Programmed "All the same". Decided on Spyder as preferred IDE, this seems most natural for me as Matlab user, allthough Jupyter notebooks are on the programme for the future. Advanced on Finxter from Basic Knowledge to Beginner.
 
 ----------
  <a name="day-X"></a>
