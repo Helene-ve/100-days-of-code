@@ -4,7 +4,8 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **07/15/19**|Python basic commands, Docker|[Day 2](#day-2) **07/16/19**|Python basic commands|[Day 3](#day-3) **07/19/19**|Python basic commands, Checkio|
+|[Day 1](#day-1) **07/15/19**|Python basic commands, Docker|[Day 2](#day-2) **07/16/19**|Python basic commands|
+|[Day 3](#day-3) **07/19/19**|Python basic commands, Checkio|
 
 ----------
 <a name="day-1"></a>
