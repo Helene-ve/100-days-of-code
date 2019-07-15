@@ -49,7 +49,7 @@
 
 **Examples**: 
 
-![Day 2 Example](https://raw.githubusercontent.com/xxx)
+![Day X Example](https://raw.githubusercontent.com/xxx)
 
 **Links to work**:
 
