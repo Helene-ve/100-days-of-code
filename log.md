@@ -4,12 +4,12 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **07/15/19**|Python basic commands, Docker|[Day 2](#day-2) **07/16/19**|Python basic commands|
-|[Day 3](#day-3) **07/19/19**|Python basic commands, Checkio|
+|[Day 1](#day-1) **07/11/19**|Python basic commands, Docker|[Day 2](#day-2) **07/12/19**|Python basic commands|
+|[Day 3](#day-3) **07/15/19**|Python basic commands, Checkio|[Day 4](#day-4) **07/16/19**|Python basic commands, Checkio|
 
 ----------
 <a name="day-1"></a>
-### Day 1: January 2, 2018 
+### Day 1: July 12, 2019
 
 **Today's Focus**: Make a plan for updating and improving my Python skills. Familiarizing with Docker, GitHub
 
@@ -42,11 +42,11 @@
 **Details**: I've started Checkio which asks for small programs yet provides a bit of help to get started. Programmed "All the same" and "House Password" which are simple input checker modules. Decided on Spyder as preferred IDE, this seems most natural for me as Matlab user, allthough Jupyter notebooks are on the programme for the future. Advanced on Finxter from Basic Knowledge to Beginner.
 
 ----------
- <a name="day-X"></a>
-### Day X:
-**Today's Focus**:
+ <a name="day-4"></a>
+### Day 4:
+**Today's Focus**: Test current level and learn
 
-**Details**:
+**Details**: At Finxter, I advanced from Beginner to Autodidact to Scholar to Learner. I find several new functions that I learned. On Checkio I’ve found my match in a moderate challenge that proves too difficult to solve in one day. Learning mostly today about dictionary manipulations.
 
 **Examples**: 
 
