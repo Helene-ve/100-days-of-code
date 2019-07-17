@@ -5,7 +5,7 @@
 HeleneVe: My adapted version, with my adapted rules, to make it work for me
 
 #### Start Date
-July 19th, 2019.
+July 11th, 2019.
 
 ## Additional Rules
 1. <del>I will tweet about my progress every day -> using the hashtag #100DaysOfCode</del>
