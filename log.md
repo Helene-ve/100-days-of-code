@@ -42,13 +42,13 @@
 
 **Details**: I've started Checkio which asks for small programs yet provides a bit of help to get started. Programmed "All the same" and "House Password" which are simple input checker modules. Decided on Spyder as preferred IDE, this seems most natural for me as Matlab user, allthough Jupyter notebooks are on the programme for the future. Advanced on Finxter from Basic Knowledge to Beginner.
 
+[Table of Contents](#toc)
 ----------
  <a name="day-4"></a>
 ### Day 4: July 16, 2019
 **Today's Focus**: Test current level and learn
 
 **Details**: At Finxter, I advanced from Beginner to Autodidact to Scholar to Learner. I find several new functions that I learned. On Checkio I’ve found my match in a moderate challenge that proves too difficult to solve in one day. Learning mostly today about dictionary manipulations.
-
 
 [Table of Contents](#toc)
 
