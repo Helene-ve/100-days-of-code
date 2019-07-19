@@ -66,7 +66,7 @@
 [Table of Contents](#toc)
 
 ----------
- <a name="day-"></a>
+ <a name="day-6"></a>
 ### Day 6: July 18, 2019
 **Today's Focus**: Make a spectrogram
 
