@@ -6,7 +6,7 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **07/11/19**|Python basic commands, Docker|[Day 2](#day-2) **07/12/19**|Python basic commands|
 |[Day 3](#day-3) **07/15/19**|Python basic commands, Checkio|[Day 4](#day-4) **07/16/19**|Python basic commands, Checkio|
-|[Day 5](#day-5) **07/17/19**|Access file names|
+|[Day 5](#day-5) **07/17/19**|Access file names||[Day 6](#day-6) **07/18/19**|Make spectrogram|
 
 ----------
 <a name="day-1"></a>
@@ -66,6 +66,22 @@
 [Table of Contents](#toc)
 
 ----------
+ <a name="day-"></a>
+### Day 6: July 18, 2019
+**Today's Focus**: Make a spectrogram
+
+**Details**: I've worked on the code for yesterday to read in a sound file and create a spectrogram of it. 
+
+**Examples**: 
+
+![Day 6 Example](https://github.com/Helene-ve/misc/blob/master/MyFirstSpec.png)
+
+**Links to work**:
+
+ -  [Spectrogram](https://github.com/Helene-ve/misc/blob/master/VisualisingSpectrogram_example.py)
+
+[Table of Contents](#toc)
+
 ----------
  <a name="day-"></a>
 ### Day : July , 2019
