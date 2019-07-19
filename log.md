@@ -78,7 +78,7 @@
 
 **Links to work**:
 
- -  [Spectrogram](https://github.com/Helene-ve/misc/blob/master/VisualisingSpectrogram_example.py)
+ -  [Spectrogram](https://github.com/Helene-ve/misc/blob/master/VisualizingSpectrogram_example.py)
 
 [Table of Contents](#toc)
 
