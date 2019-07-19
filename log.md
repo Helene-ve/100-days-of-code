@@ -6,7 +6,7 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **07/11/19**|Python basic commands, Docker|[Day 2](#day-2) **07/12/19**|Python basic commands|
 |[Day 3](#day-3) **07/15/19**|Python basic commands, Checkio|[Day 4](#day-4) **07/16/19**|Python basic commands, Checkio|
-|[Day 5](#day-5) **07/17/19**|Access file names||[Day 6](#day-6) **07/18/19**|Make spectrogram|
+|[Day 5](#day-5) **07/17/19**|Access file names|[Day 6](#day-6) **07/18/19**|Make spectrogram|
 
 ----------
 <a name="day-1"></a>
