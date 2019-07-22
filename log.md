@@ -7,6 +7,7 @@
 |[Day 1](#day-1) **07/11/19**|Python basic commands, Docker|[Day 2](#day-2) **07/12/19**|Python basic commands|
 |[Day 3](#day-3) **07/15/19**|Python basic commands, Checkio|[Day 4](#day-4) **07/16/19**|Python basic commands, Checkio|
 |[Day 5](#day-5) **07/17/19**|Access file names|[Day 6](#day-6) **07/18/19**|Make spectrogram|
+|[Day 7](#day-7) **07/22/19**|Move around files|
 
 ----------
 <a name="day-1"></a>
@@ -83,6 +84,20 @@
 [Table of Contents](#toc)
 
 ----------
+ <a name="day-7"></a>
+### Day 7: July 22, 2019
+**Today's Focus**: Coding a program to move around files
+
+**Details**: To be honest this final stretch took 2 days. Building on the code of day 5, I wrote a program that finds a specific part of a filename and uses that to put these files in date-coded folders. This both because I need to do that, but also as training to read and manipulate files in Python. I have more often encountered situations where I needed to move around files to a better directory structure, so I expect to use this script more often, and will try to improve it for future use. I read recently that rewriting and improving code rather than writing new code is important, as revisiting and re-working old work is a path to becoming excellent at what you do ( https://jamesclear.com/stay-on-the-bus).
+
+**Links to work**:
+
+ - [Read files and make Directories](https://github.com/Helene-ve/misc/blob/master/ReadFilesMakeDirs.py)
+
+
+[Table of Contents](#toc)
+
+----------
  <a name="day-"></a>
 ### Day : July , 2019
 **Today's Focus**: 
@@ -99,5 +114,4 @@
 
 
 [Table of Contents](#toc)
-
 ----------
